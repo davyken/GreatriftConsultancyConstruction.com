@@ -803,6 +803,12 @@ text-shadow:1px 1px #73757E;
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
+       
+    }
+    #sec-1 .container img{ 
+        height: 500px;
+        width: 500px;
+        border-radius: 1rem;
     }
     #sec-1 article{
         padding: 0px;
